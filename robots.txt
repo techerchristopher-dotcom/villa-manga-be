@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://villamangabe.rentanoo.com/sitemap.xml
